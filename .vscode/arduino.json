@@ -1,0 +1,7 @@
+{
+    "board": "esp8266:esp8266:generic",
+    "configuration": "CpuFrequency=80,FlashFreq=40,FlashMode=qio,UploadSpeed=115200,FlashSize=4M3M,ResetMethod=nodemcu,Debug=Disabled,DebugLevel=None____",
+    "port": "COM3",
+    "output": "build",
+    "sketch": "sketch_bme280.ino"
+}
